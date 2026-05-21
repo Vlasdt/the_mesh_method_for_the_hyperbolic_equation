@@ -1,0 +1,8 @@
+[package]
+name = "the_mesh_method_for_the_hyperbolic_equation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+plotly = "0.14.1"
+plotters = "0.3.7"
